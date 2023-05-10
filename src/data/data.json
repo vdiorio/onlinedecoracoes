@@ -1,0 +1,118 @@
+{
+    "Header": {
+
+        "title": "Decorações online",
+        "paragraph": "Criando ambientes deslumbrantes a mais de 20 anos"
+    },
+    "About": {
+        "paragraph": "Somos uma empresa apaixonada por transformar espaços em ambientes inspiradores e acolhedores. Com 20 anos de experiência no setor de decoração, nos orgulhamos de oferecer serviços de alta qualidade para nossos clientes, sempre buscando superar suas expectativas. Estamos ansiosos para trabalhar com você e ajudá-lo a transformar seus espaços em algo extraordinário. Entre em contato conosco hoje mesmo e descubra como podemos tornar seus sonhos de decoração uma realidade.",
+        "Why": [
+            "Lorem ipsum dolor",
+            "Tempor incididunt",
+            "Lorem ipsum dolor",
+            "Incididunt ut labore"
+        ],
+        "Why2": [
+            "Aliquip ex ea commodo",
+            "Lorem ipsum dolor",
+            "Exercitation ullamco",
+            "Lorem ipsum dolor"
+        ]
+    },
+    "Services": [{
+            "image": "img/portfolio/11.jpeg",
+            "name": "Jardins",
+            "text": "Nossa equipe de paisagistas experientes pode transformar seu espaço exterior em um oásis verdejante, com jardins personalizados que refletem seu estilo e personalidade. Desde a concepção do projeto até a instalação e manutenção contínua, cuidamos de tudo para que você possa relaxar e desfrutar de um jardim exuberante e bem cuidado."
+        },
+        {
+            "image": "img/portfolio/10.jpeg",
+            "name": "Persianas",
+            "text": "Nossas persianas sob medida são a escolha perfeita para quem deseja privacidade, controle de luz e uma estética elegante. Temos uma ampla variedade de opções de materiais, cores e estilos para atender às suas necessidades e preferências. Nossos especialistas em instalação garantem que suas persianas sejam instaladas com perfeição, para que você possa desfrutar de um ambiente agradável e confortável."
+        },
+        {
+            "image": "img/portfolio/19.jpeg",
+            "name": "Divisórias",
+            "text": "Se você precisa dividir um espaço em sua casa ou escritório, nossas opções de divisórias em dry wall ou vidro oferecem soluções práticas e elegantes. Nossos instaladores especializados podem criar divisórias personalizadas que se ajustam perfeitamente ao seu espaço e estilo de decoração, garantindo um resultado final impecável. Além disso, nossas divisórias são duráveis, fáceis de limpar e manter, tornando-as uma escolha inteligente para qualquer ambiente."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "name": "Online Decorações",
+        "address": "Rua Antonio da Silva Esparrinha 533",
+        "phone": "11 99667-6792",
+        "email": "online.empresa@yahoo.com.br​"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
