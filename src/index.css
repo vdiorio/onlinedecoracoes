@@ -5,9 +5,35 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  min-width: 579px;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.img-responsive {
+  margin: auto;
+}
+
+@media (max-width: 768px) {
+  #about img {
+    margin: auto;
+  }
+}
+
+@media (min-width: 977px) {
+  .row {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
+@media (min-width: 992px) {
+  .col-md-offset-2 {
+    margin-left: 0;
+  }
 }
