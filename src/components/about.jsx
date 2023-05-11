@@ -4,7 +4,7 @@ export const About = (props) => {
       <div className='container'>
         <div className='row'>
           <div className='col-xs-12 col-md-6'>
-            <img style={styles.img} src="img/portfolio/07.jpeg" className='img-responsive img-center' alt='' />{' '}
+            <img style={styles.img} src="img/portfolio/15.jpeg" className='img-responsive img-center' alt='' />{' '}
           </div>
           <div className='col-xs-12 col-md-6'>
             <div className='about-text'>
