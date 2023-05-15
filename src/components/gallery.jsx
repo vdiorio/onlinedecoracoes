@@ -6,15 +6,15 @@ export const Gallery = props => {
   const [isViewerOpen, setIsViewerOpen] = useState(false);
 
   const data = [
-    { thumb: "img/portfolio/01.jpeg", title: "Lorem Ipsum1" },
-    { thumb: "img/portfolio/02.jpeg", title: "Lorem Ipsum2" },
-    { thumb: "img/portfolio/03.jpeg", title: "Lorem Ipsum3" },
-    { thumb: "img/portfolio/10.jpeg", title: "Lorem Ipsum4" },
-    { thumb: "img/portfolio/11.jpeg", title: "Lorem Ipsum5" },
-    { thumb: "img/portfolio/06.jpeg", title: "Lorem Ipsum6" },
-    { thumb: "img/portfolio/07.jpeg", title: "Lorem Ipsum7" },
-    { thumb: "img/portfolio/08.jpeg", title: "Lorem Ipsum8" },
-    { thumb: "img/portfolio/09.jpeg", title: "Lorem Ipsum9" }
+    { thumb: "img/portfolio/01.jpeg", title: "Expandir" },
+    { thumb: "img/portfolio/02.jpeg", title: "Expandir" },
+    { thumb: "img/portfolio/03.jpeg", title: "Expandir" },
+    { thumb: "img/portfolio/10.jpeg", title: "Expandir" },
+    { thumb: "img/portfolio/11.jpeg", title: "Expandir" },
+    { thumb: "img/portfolio/06.jpeg", title: "Expandir" },
+    { thumb: "img/portfolio/07.jpeg", title: "Expandir" },
+    { thumb: "img/portfolio/08.jpeg", title: "Expandir" },
+    { thumb: "img/portfolio/09.jpeg", title: "Expandir" }
   ];
 
   const images = data.map(obj => obj.thumb.replace("-small", "-large"));

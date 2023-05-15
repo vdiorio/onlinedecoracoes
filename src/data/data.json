@@ -20,23 +20,23 @@
         ]
     },
     "Services": [{
-            "image": "img/portfolio/11.jpeg",
+            "image": "img/portfolio/jardins.jpeg",
             "name": "Jardins",
             "text": "Nossa equipe de paisagistas experientes pode transformar seu espaço exterior em um oásis verdejante, com jardins personalizados que refletem seu estilo e personalidade. Desde a concepção do projeto até a instalação e manutenção contínua, cuidamos de tudo para que você possa relaxar e desfrutar de um jardim exuberante e bem cuidado."
         },
         {
-            "image": "img/portfolio/10.jpeg",
+            "image": "img/portfolio/persianas.jpeg",
             "name": "Persianas",
             "text": "Nossas persianas sob medida são a escolha perfeita para quem deseja privacidade, controle de luz e uma estética elegante. Temos uma ampla variedade de opções de materiais, cores e estilos para atender às suas necessidades e preferências. Nossos especialistas em instalação garantem que suas persianas sejam instaladas com perfeição, para que você possa desfrutar de um ambiente agradável e confortável."
         },
         {
-            "image": "img/portfolio/19.jpeg",
+            "image": "img/portfolio/divisorias.jpeg",
             "name": "Divisórias",
             "text": "Se você precisa dividir um espaço em sua casa ou escritório, nossas opções de divisórias em dry wall ou vidro oferecem soluções práticas e elegantes. Nossos instaladores especializados podem criar divisórias personalizadas que se ajustam perfeitamente ao seu espaço e estilo de decoração, garantindo um resultado final impecável. Além disso, nossas divisórias são duráveis, fáceis de limpar e manter, tornando-as uma escolha inteligente para qualquer ambiente."
         },
         {
-            "image": "img/portfolio/16.jpeg",
-            "name": "Piso laminado",
+            "image": "img/portfolio/piso.jpeg",
+            "name": "Piso vinilico",
             "text": "Se você precisa dividir um espaço em sua casa ou escritório, nossas opções de divisórias em dry wall ou vidro oferecem soluções práticas e elegantes. Nossos instaladores especializados podem criar divisórias personalizadas que se ajustam perfeitamente ao seu espaço e estilo de decoração, garantindo um resultado final impecável. Além disso, nossas divisórias são duráveis, fáceis de limpar e manter, tornando-as uma escolha inteligente para qualquer ambiente."
         }
 
